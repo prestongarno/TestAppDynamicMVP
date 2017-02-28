@@ -2,4 +2,6 @@
 .gradle
 /local.properties
 /.idea/workspace.xml
-dynamic-mvp
+app/src/main/res/drawable/
+libs/
+src/main/res/drawable/
